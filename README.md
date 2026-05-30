@@ -30,7 +30,17 @@ LearnHub+ is a frontend web application that allows users to browse online cours
 
 ## Screenshots
 
-Add screenshots of the UI here after running the project.
+### Home Page
+![Home Page](screenshots/home.png)
+
+### About Page
+![About Page](screenshots/about.png)
+
+### Services Page
+![Services Page](screenshots/services.png)
+
+### Contact Page
+![Contact Page](screenshots/contact.png)
 
 ## Author
 
