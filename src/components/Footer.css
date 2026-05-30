@@ -1,0 +1,23 @@
+.footer {
+  background-color: rgb(30, 30, 60);
+  color: rgb(180, 180, 180);
+  text-align: center;
+  padding: 25px 40px;
+  font-size: 14px;
+}
+
+.footer-links {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.footer-links a {
+  color: rgb(180, 180, 180);
+  text-decoration: none;
+}
+
+.footer-links a:hover {
+  color: rgb(233, 69, 96);
+}
